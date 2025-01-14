@@ -1,0 +1,12 @@
+,error_pct,error_pct,error_pct,actual,predicted
+,mean,std,count,mean,mean
+quartier,,,,,
+Bourroches - Port du Canal - Valendons - Montagne Sainte-Anne,7.23,29.33,476,161327.49,162145.17
+Centre-Ville,8.2,36.59,1156,134367.88,135161.22
+Chevreul - Parc,4.88,29.29,609,139518.4,137858.47
+Fontaine d'Ouche - Faubourg Raines - Larrey - Motte Giron,7.97,27.79,497,120409.53,122144.02
+Grésilles,10.27,29.3,120,123743.78,131653.33
+Maladiere - Drapeau - Clemenceau,6.31,27.74,556,138284.94,138649.34
+Montchapet,4.7,26.27,1153,150657.06,148610.92
+Université,3.46,24.7,510,131411.74,129084.15
+Varennes - Toison d'Or - Joffre,0.8,21.03,529,165812.16,161751.97

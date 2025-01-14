@@ -1,0 +1,50 @@
+{
+    "initial_count": 39687,
+    "after_terrain_filter": 39661,
+    "price_thresholds": {
+        "prix_m2_min": 581.538,
+        "prix_m2_max": 4914.036000000006,
+        "valeur_min": 30000.0,
+        "valeur_max": 540180.0000000007
+    },
+    "final_count": 38401,
+    "removed_count": 1286,
+    "removed_percentage": 3.2,
+    "quartiers_count": 9,
+    "quartiers_distribution": {
+        "Montchapet": 5890,
+        "Centre-Ville": 5728,
+        "Chevreul - Parc": 3095,
+        "Maladiere - Drapeau - Clemenceau": 2740,
+        "Universit\u00e9": 2665,
+        "Varennes - Toison d'Or - Joffre": 2580,
+        "Bourroches - Port du Canal - Valendons - Montagne Sainte-Anne": 2385,
+        "Fontaine d'Ouche - Faubourg Raines - Larrey - Motte Giron": 2365,
+        "Gr\u00e9silles": 613
+    },
+    "missing_values": {
+        "x": 778,
+        "y": 778
+    },
+    "final_dtypes": {
+        "type_bien": "object",
+        "typologie": "object",
+        "valeurfonc": "float64",
+        "prix_m2": "float64",
+        "commune": "object",
+        "anneemut": "float64",
+        "moismut": "float64",
+        "nblocmut": "int32",
+        "sbati": "int32",
+        "sterr": "int32",
+        "nb_commerces_150m": "float64",
+        "min_bus_id": "float64",
+        "min_bus_dist": "float64",
+        "min_tram_id": "float64",
+        "min_tram_dist": "float64",
+        "min_ecole_id": "float64",
+        "min_ecole_dist": "float64",
+        "x": "float64",
+        "y": "float64"
+    }
+}
